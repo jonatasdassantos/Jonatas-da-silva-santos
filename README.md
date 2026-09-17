@@ -1,8 +1,8 @@
 # Olá! Eu sou Jonatas da Silva Santos 👋
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas
-💻 Em transição de carreira para a área de Tecnologia da Informação
-📍 Salvador - BA, Brasil
+🎓 Graduado em Análise e Desenvolvimento de Sistemas                                                                                                                                                                         
+💻 Em transição de carreira para a área de Tecnologia da Informação                                                                                                                                                          
+📍 Salvador - BA, Brasil                                                                                                                                                                                                     
 
 ## 👨‍💻 Sobre mim
 
