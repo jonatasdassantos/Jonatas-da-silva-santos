@@ -1,12 +1,12 @@
 # Olá! Eu sou Jonatas da Silva Santos 👋
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas                                                                                                                                                                         
-💻 Em transição de carreira para a área de Tecnologia da Informação                                                                                                                                                          
+🎓 Graduado em Análise e Desenvolvimento de Sistemas
+💻 Em transição de carreira para a área de Tecnologia da Informação
 📍 Salvador - BA, Brasil
 
 ## 👨‍💻 Sobre mim
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Estácio da Bahia e estou construindo minha carreira na área de Tecnologia da Informação.
+Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Estácio da Bahia e estou construindo minha carreira na área de Tecnologia da Informação.
 
 Tenho conhecimentos em desenvolvimento web, programação, banco de dados e ferramentas de desenvolvimento, adquiridos durante minha formação acadêmica, cursos e projetos práticos.
 
