@@ -1,89 +1,73 @@
-# Olá! Eu sou Jonatas da Silva Santos 👋
+# 👋 Olá! Eu sou Jonatas Santos
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas                                                                                                                                                                         
-💻 Em transição de carreira para a área de Tecnologia da Informação                                                                                                                                                          
-📍 Salvador - BA, Brasil                                                                                                                                                                                                     
+🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
+💻 **Em transição de carreira para a área de Tecnologia da Informação**
 
-## 👨‍💻 Sobre mim
+Atualmente estou desenvolvendo meus conhecimentos em programação, banco de dados e desenvolvimento web, criando projetos práticos para consolidar minha formação e construir meu portfólio profissional.
 
-Sou formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Estácio da Bahia e estou construindo minha carreira na área de Tecnologia da Informação.
+## 🚀 Sobre mim
 
-Tenho conhecimentos em desenvolvimento web, programação, banco de dados e ferramentas de desenvolvimento, adquiridos durante minha formação acadêmica, cursos e projetos práticos.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade profissional na área de TI.
 
-Atualmente busco minha primeira oportunidade profissional na área de TI, com interesse em posições como Analista de TI Júnior, Suporte, Sistemas, Desenvolvimento ou áreas relacionadas.
+Minha experiência profissional anterior me proporcionou contato com rotinas de organização, controle, resolução de problemas, trabalho em equipe e atendimento, competências que agora busco aplicar em minha transição para a área de tecnologia.
 
-## 🛠️ Tecnologias e ferramentas
+Tenho interesse em oportunidades como **Analista de TI Júnior** e áreas relacionadas à tecnologia.
 
-### Desenvolvimento
+## 🛠️ Tecnologias e conhecimentos
+
+### 💻 Desenvolvimento
 
 * HTML5
 * CSS3
 * JavaScript
 * Python
 
-### Banco de dados
+### 🗄️ Banco de Dados
 
 * SQL
 
-### Ferramentas
+### 🧰 Ferramentas
 
 * Git
 * GitHub
-* Microsoft Excel
+* Bootstrap
+* Excel
 
-## 🚀 Projetos
+## 📂 Projetos em destaque
 
-### 🎮 Jogo Mata-Mosquito
+🔹 **App Orçamento Pessoal**
+Aplicação web desenvolvida com HTML5, CSS3 e JavaScript.
 
-Aplicação web interativa desenvolvida para praticar lógica de programação e desenvolvimento front-end.
+🔹 **Jogo Mata-Mosquito**
+Projeto interativo desenvolvido com JavaScript para prática de lógica e manipulação do DOM.
 
-**Tecnologias:** HTML5 • CSS3 • JavaScript
+🔹 **Projeto Quiz**
+Aplicação web de perguntas e respostas desenvolvida com HTML5, CSS3 e JavaScript.
 
-🔗 [Ver projeto](https://jonatasdassantos.github.io/app_mata_mosquito/)
+🔹 **Projeto Android**
+Projeto web desenvolvido para prática de HTML5 e CSS3.
 
----
+🔹 **Projeto Spotify**
+Interface web inspirada no Spotify, desenvolvida com HTML5, CSS3 e Bootstrap.
 
-### 💰 App Orçamento Pessoal
+🔹 **Projeto Finans**
+Interface web de uma plataforma financeira desenvolvida com HTML5, CSS3 e Bootstrap.
 
-Aplicação web desenvolvida para praticar conceitos de programação e criação de uma ferramenta para controle de orçamento pessoal.
+## 🎯 Atualmente
 
-**Tecnologias:** HTML5 • CSS3 • JavaScript
-
-🔗 [Ver projeto](https://jonatasdassantos.github.io/app_orcamento_pessoal/)
-
----
-
-### 🧠 Projeto Quiz
-
-Aplicação web interativa desenvolvida para praticar lógica de programação, interação com o usuário e desenvolvimento front-end.
-
-**Tecnologias:** HTML5 • CSS3 • JavaScript
-
-🔗 [Ver projeto](https://jonatasdassantos.github.io/projeto_quizz/)
-
----
-
-### 📱 Projeto Android
-
-Projeto desenvolvido durante minha formação/estudos na área de desenvolvimento, com foco na criação de uma aplicação para dispositivos móveis.
-
-🔗 [Ver projeto](https://jonatasdassantos.github.io/projeto-android/)
-
-## 🎯 Objetivo profissional
-
-Busco minha primeira oportunidade profissional em Tecnologia da Informação, onde possa aplicar meus conhecimentos, desenvolver novas habilidades e contribuir com a equipe.
-
-Tenho interesse em continuar evoluindo principalmente nas áreas de:
-
-* Análise de sistemas
-* Desenvolvimento
-* Banco de dados
-* Suporte de TI
-* Infraestrutura
-* Dados
+* 📚 Aprimorando meus conhecimentos em programação
+* 🗄️ Estudando banco de dados e SQL
+* 🌐 Desenvolvendo projetos para meu portfólio
+* 💼 Buscando minha primeira oportunidade profissional em TI
 
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/jonatas-da-silva-santos-33653b224/
+🔗 **LinkedIn:**
+https://www.linkedin.com/in/jonatas-da-silva-santos-33653b224/
 
-💻 GitHub: https://github.com/jonatasdassantos
+📧 **E-mail:**
+[jhonas192@hotmail.com](mailto:jhonas192@hotmail.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
