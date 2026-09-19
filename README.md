@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="images/banner.png" alt="Banner profissional - Jonatas Santos" width="100%">
+</p>
+
 # 👋 Olá! Eu sou Jonatas Santos
 
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**                                                                                                                                                                     
