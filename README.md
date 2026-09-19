@@ -7,11 +7,13 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, banco de dad
 
 ## 🚀 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade profissional na área de TI.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e estou em **transição de carreira para a área de Tecnologia da Informação**.
 
-Minha experiência profissional anterior me proporcionou contato com rotinas de organização, controle, resolução de problemas, trabalho em equipe e atendimento, competências que agora busco aplicar em minha transição para a área de tecnologia.
+Minha experiência profissional anterior me proporcionou conhecimentos em **organização, controle de processos, resolução de problemas, trabalho em equipe e atendimento**, competências que considero importantes para minha atuação na área de tecnologia.
 
-Tenho interesse em oportunidades como **Analista de TI Júnior** e áreas relacionadas à tecnologia.
+Durante minha formação e estudos, desenvolvi conhecimentos em **Python, JavaScript, HTML5, CSS3, SQL, Bootstrap, Git e GitHub**, além de utilizar projetos práticos para aprimorar minhas habilidades e construir meu portfólio.
+
+Atualmente, busco minha **primeira oportunidade profissional em TI**, com interesse em áreas como **Analista de TI, Assistente de TI, Suporte de TI e Desenvolvimento Júnior**, além de outras oportunidades relacionadas à tecnologia.
 
 ## 🛠️ Tecnologias e Conhecimentos
 
