@@ -35,6 +35,16 @@ Tenho interesse em oportunidades como **Analista de TI Júnior** e áreas relaci
 
 ## 🚀 Projetos em Destaque
 
+### 🎮 Jogo Mata-Mosquito
+
+Jogo web desenvolvido para praticar lógica de programação, interação com o usuário e manipulação de elementos da página.
+
+**Tecnologias:** HTML5 • CSS3 • JavaScript
+
+[🔗 Ver projeto](https://jonatasdassantos.github.io/app_mata_mosquito/) | [💻 Código-fonte](https://github.com/jonatasdassantos/app_mata_mosquito)
+
+---
+
 ### 💰 App Orçamento Pessoal
 
 Aplicação web para controle de despesas, com cadastro, categorias, consulta e exclusão de registros.
@@ -52,26 +62,6 @@ Aplicação web interativa de perguntas e respostas, com múltiplas alternativas
 **Tecnologias:** HTML5 • CSS3 • JavaScript
 
 [🔗 Ver projeto](https://jonatasdassantos.github.io/projeto_quizz/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto_quizz)
-
----
-
-### 🎮 Jogo Mata-Mosquito
-
-Jogo web desenvolvido para praticar lógica de programação, interação com o usuário e manipulação de elementos da página.
-
-**Tecnologias:** HTML5 • CSS3 • JavaScript
-
-[🔗 Ver projeto](https://jonatasdassantos.github.io/app_mata_mosquito/) | [💻 Código-fonte](https://github.com/jonatasdassantos/app_mata_mosquito)
-
----
-
-### 📱 Projeto Android
-
-Página web sobre Android, com menu de navegação, imagens, textos, links e layout responsivo.
-
-**Tecnologias:** HTML5 • CSS3
-
-[🔗 Ver projeto](https://jonatasdassantos.github.io/projeto-android/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto-android)
 
 ---
 
@@ -93,6 +83,15 @@ Interface web responsiva inspirada em uma plataforma financeira, com navegação
 
 [💻 Código-fonte](https://github.com/jonatasdassantos/projeto-finans-bootstrap4)
 
+---
+
+### 📱 Projeto Android
+
+Página web sobre Android, com menu de navegação, imagens, textos, links e layout responsivo.
+
+**Tecnologias:** HTML5 • CSS3
+
+[🔗 Ver projeto](https://jonatasdassantos.github.io/projeto-android/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto-android)
 
 ## 🎯 Atualmente
 
