@@ -99,7 +99,7 @@ Interface web inspirada no Spotify, com navegação, layout responsivo, efeito P
 
 **Tecnologias:** HTML5 • CSS3 • Bootstrap
 
-[💻 Código-fonte](https://github.com/jonatasdassantos/projeto-inicial-spotify)
+[🔗 Ver projeto](https://jonatasdassantos.github.io/projeto-inicial-spotify/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto-inicial-spotify)
 
 ---
 
@@ -109,7 +109,7 @@ Interface web responsiva inspirada em uma plataforma financeira, com navegação
 
 **Tecnologias:** HTML5 • CSS3 • Bootstrap
 
-[💻 Código-fonte](https://github.com/jonatasdassantos/projeto-finans-bootstrap4)
+[🔗 Ver projeto](https://jonatasdassantos.github.io/projeto-finans-bootstrap4/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto-finans-bootstrap4)
 
 ---
 
