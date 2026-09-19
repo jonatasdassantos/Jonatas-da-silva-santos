@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Jonatas Santos
 
-🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
-💻 **Em transição de carreira para a área de Tecnologia da Informação**
+🎓 **Graduado em Análise e Desenvolvimento de Sistemas**                                                                                                                                                                     
+💻 **Em transição de carreira para a área de Tecnologia da Informação**                                                                                                                                                      
 
 Atualmente estou desenvolvendo meus conhecimentos em programação, banco de dados e desenvolvimento web, criando projetos práticos para consolidar minha formação e construir meu portfólio profissional.
 
