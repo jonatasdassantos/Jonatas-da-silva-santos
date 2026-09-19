@@ -33,25 +33,66 @@ Tenho interesse em oportunidades como **Analista de TI Júnior** e áreas relaci
 * Bootstrap
 * Excel
 
-## 📂 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-🔹 **App Orçamento Pessoal**
-Aplicação web desenvolvida com HTML5, CSS3 e JavaScript.
+### 💰 App Orçamento Pessoal
 
-🔹 **Jogo Mata-Mosquito**
-Projeto interativo desenvolvido com JavaScript para prática de lógica e manipulação do DOM.
+Aplicação web para controle de despesas, com cadastro, categorias, consulta e exclusão de registros.
 
-🔹 **Projeto Quiz**
-Aplicação web de perguntas e respostas desenvolvida com HTML5, CSS3 e JavaScript.
+**Tecnologias:** HTML5 • CSS3 • JavaScript
 
-🔹 **Projeto Android**
-Projeto web desenvolvido para prática de HTML5 e CSS3.
+[🔗 Ver projeto](https://jonatasdassantos.github.io/app_orcamento_pessoal/) | [💻 Código-fonte](https://github.com/jonatasdassantos/app_orcamento_pessoal)
 
-🔹 **Projeto Spotify**
-Interface web inspirada no Spotify, desenvolvida com HTML5, CSS3 e Bootstrap.
+---
 
-🔹 **Projeto Finans**
-Interface web de uma plataforma financeira desenvolvida com HTML5, CSS3 e Bootstrap.
+### 🧠 Projeto Quiz
+
+Aplicação web interativa de perguntas e respostas, com múltiplas alternativas, feedback visual e apresentação do resultado.
+
+**Tecnologias:** HTML5 • CSS3 • JavaScript
+
+[🔗 Ver projeto](https://jonatasdassantos.github.io/projeto_quizz/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto_quizz)
+
+---
+
+### 🎮 Jogo Mata-Mosquito
+
+Jogo web desenvolvido para praticar lógica de programação, interação com o usuário e manipulação de elementos da página.
+
+**Tecnologias:** HTML5 • CSS3 • JavaScript
+
+[🔗 Ver projeto](https://jonatasdassantos.github.io/app_mata_mosquito/) | [💻 Código-fonte](https://github.com/jonatasdassantos/app_mata_mosquito)
+
+---
+
+### 📱 Projeto Android
+
+Página web sobre Android, com menu de navegação, imagens, textos, links e layout responsivo.
+
+**Tecnologias:** HTML5 • CSS3
+
+[🔗 Ver projeto](https://jonatasdassantos.github.io/projeto-android/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto-android)
+
+---
+
+### 🎵 Projeto Spotify
+
+Interface web inspirada no Spotify, com navegação, layout responsivo, efeito Parallax e carrossel.
+
+**Tecnologias:** HTML5 • CSS3 • Bootstrap
+
+[💻 Código-fonte](https://github.com/jonatasdassantos/projeto-inicial-spotify)
+
+---
+
+### 💰 Projeto Finans
+
+Interface web responsiva inspirada em uma plataforma financeira, com navegação, seções de conteúdo e campo para e-mail.
+
+**Tecnologias:** HTML5 • CSS3 • Bootstrap
+
+[💻 Código-fonte](https://github.com/jonatasdassantos/projeto-finans-bootstrap4)
+
 
 ## 🎯 Atualmente
 
