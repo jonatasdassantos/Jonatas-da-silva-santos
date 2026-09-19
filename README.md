@@ -13,14 +13,18 @@ Minha experiência profissional anterior me proporcionou contato com rotinas de 
 
 Tenho interesse em oportunidades como **Analista de TI Júnior** e áreas relacionadas à tecnologia.
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias e Conhecimentos
 
-### 💻 Desenvolvimento
+### 💻 Linguagens de Programação
+
+* Python
+* JavaScript
+
+### 🌐 Desenvolvimento Web
 
 * HTML5
 * CSS3
-* JavaScript
-* Python
+* Bootstrap
 
 ### 🗄️ Banco de Dados
 
@@ -30,8 +34,9 @@ Tenho interesse em oportunidades como **Analista de TI Júnior** e áreas relaci
 
 * Git
 * GitHub
-* Bootstrap
 * Excel
+* Word
+
 
 ## 🚀 Projetos em Destaque
 
