@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Jonatas Santos
 
-🎓 **Graduado em Análise e Desenvolvimento de Sistemas**                                                                                                                                                                     
-💻 **Em transição de carreira para a área de Tecnologia da Informação**                                                                                                                                                      
+🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
+💻 **Em transição de carreira para a área de Tecnologia da Informação**
 
 Atualmente estou desenvolvendo meus conhecimentos em programação, banco de dados e desenvolvimento web, criando projetos práticos para consolidar minha formação e construir meu portfólio profissional.
 
@@ -45,10 +45,18 @@ Busco minha primeira oportunidade profissional na área de Tecnologia da Informa
 
 Tenho conhecimentos em **programação, bancos de dados, desenvolvimento web e ferramentas de tecnologia**, que venho aprimorando por meio de estudos e projetos práticos.
 
-Busco uma oportunidade que me permita aplicar meus conhecimentos, adquirir experiência profissional e continuar evoluindo na área de Tecnologia da Informação.
+Busco uma oportunidade que me permita **aplicar meus conhecimentos, adquirir experiência profissional e continuar evoluindo na área de Tecnologia da Informação**.
 
+## 📚 Atualmente estudando
 
-## 🚀 Projetos em Destaque
+* 🐍 Aprofundamento em Python
+* 🗄️ SQL e bancos de dados
+* 💻 Desenvolvimento de aplicações
+* 🔧 Git e GitHub
+* 🖥️ Fundamentos de suporte e infraestrutura de TI
+* 🧩 Modelagem de processos (BPM/BPMN)
+
+## 🚀 Projetos em destaque
 
 ### 🎮 Jogo Mata-Mosquito
 
@@ -60,7 +68,7 @@ Jogo web desenvolvido para praticar lógica de programação, interação com o 
 
 ---
 
-### 💰 App Orçamento Pessoal
+### 💰 Aplicativo Orçamento Pessoal
 
 Aplicação web para controle de despesas, com cadastro, categorias, consulta e exclusão de registros.
 
@@ -108,22 +116,11 @@ Página web sobre Android, com menu de navegação, imagens, textos, links e lay
 
 [🔗 Ver projeto](https://jonatasdassantos.github.io/projeto-android/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto-android)
 
-## 📚 Atualmente estudando
-
-* 🐍 Aprofundamento em Python
-* 🗄️ SQL e bancos de dados
-* 💻 Desenvolvimento de aplicações
-* 🔧 Git e GitHub
-* 🖥️ Fundamentos de suporte e infraestrutura de TI
-* 🧩 Modelagem de processos (BPM/BPMN)
-
 ## 📫 Contato
 
-🔗 **LinkedIn:**
-https://www.linkedin.com/in/jonatas-da-silva-santos-33653b224/
+🔗 **LinkedIn:** [Meu perfil no LinkedIn](https://www.linkedin.com/in/jonatas-da-silva-santos-33653b224/)
 
-📧 **E-mail:**
-[jhonas192@hotmail.com](mailto:jhonas192@hotmail.com)
+📧 **E-mail:** [jhonas192@hotmail.com](mailto:jhonas192@hotmail.com)
 
 ---
 
