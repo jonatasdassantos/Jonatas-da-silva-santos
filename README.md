@@ -37,6 +37,14 @@ Tenho interesse em oportunidades como **Analista de TI Júnior** e áreas relaci
 * Excel
 * Word
 
+## 🎯 Objetivo Profissional
+
+Busco minha primeira oportunidade profissional na área de Tecnologia da Informação, com interesse em atuar como **Analista de TI Júnior, Assistente de TI, Assistente de Suporte de TI, Desenvolvedor Júnior** ou em áreas relacionadas à tecnologia.
+
+Tenho conhecimentos em **programação, bancos de dados, desenvolvimento web e ferramentas de tecnologia**, que venho aprimorando por meio de estudos e projetos práticos.
+
+Busco uma oportunidade que me permita aplicar meus conhecimentos, adquirir experiência profissional e continuar evoluindo na área de Tecnologia da Informação.
+
 
 ## 🚀 Projetos em Destaque
 
