@@ -108,12 +108,14 @@ Página web sobre Android, com menu de navegação, imagens, textos, links e lay
 
 [🔗 Ver projeto](https://jonatasdassantos.github.io/projeto-android/) | [💻 Código-fonte](https://github.com/jonatasdassantos/projeto-android)
 
-## 🎯 Atualmente
+## 📚 Atualmente estudando
 
-* 📚 Aprimorando meus conhecimentos em programação
-* 🗄️ Estudando banco de dados e SQL
-* 🌐 Desenvolvendo projetos para meu portfólio
-* 💼 Buscando minha primeira oportunidade profissional em TI
+* 🐍 Aprofundamento em Python
+* 🗄️ SQL e bancos de dados
+* 💻 Desenvolvimento de aplicações
+* 🔧 Git e GitHub
+* 🖥️ Fundamentos de suporte e infraestrutura de TI
+* 🧩 Modelagem de processos (BPM/BPMN)
 
 ## 📫 Contato
 
