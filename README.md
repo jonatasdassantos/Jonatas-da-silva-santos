@@ -123,10 +123,16 @@ Página web sobre Android, com menu de navegação, imagens, textos, links e lay
 
 ## 📫 Contato
 
-🔗 **LinkedIn:** [Meu perfil no LinkedIn](https://www.linkedin.com/in/jonatas-da-silva-santos-33653b224/)
-
-📧 **E-mail:** [jhonas192@hotmail.com](mailto:jhonas192@hotmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonatas-da-silva-santos-33653b224/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jhonas192@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</p>
 
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
